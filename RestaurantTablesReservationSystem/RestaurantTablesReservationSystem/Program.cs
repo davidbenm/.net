@@ -1,4 +1,5 @@
 ﻿string[] userNames = new string[3] { "John", "" , "" };
+// this is new
 int currentIndex = 1;
 Console.WriteLine("Welcome to our restaurant!");
 string userType;

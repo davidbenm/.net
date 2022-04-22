@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Papers, books, articles, courses, videos, etc\\Development\\CS\\Projects\\RestaurantTablesReservationSystem\\RestaurantTablesReservationSystem\\RestaurantTablesReservationSystem.csproj",
+      "projectUniqueName": "D:\\Papers, books, articles, courses, videos, etc\\GitHub_repos\\cs\\RestaurantTablesReservationSystem\\RestaurantTablesReservationSystem\\RestaurantTablesReservationSystem.csproj",
       "projectName": "RestaurantTablesReservationSystem",
-      "projectPath": "D:\\Papers, books, articles, courses, videos, etc\\Development\\CS\\Projects\\RestaurantTablesReservationSystem\\RestaurantTablesReservationSystem\\RestaurantTablesReservationSystem.csproj",
+      "projectPath": "D:\\Papers, books, articles, courses, videos, etc\\GitHub_repos\\cs\\RestaurantTablesReservationSystem\\RestaurantTablesReservationSystem\\RestaurantTablesReservationSystem.csproj",
       "packagesPath": "C:\\Users\\dbeni\\.nuget\\packages\\",
-      "outputPath": "D:\\Papers, books, articles, courses, videos, etc\\Development\\CS\\Projects\\RestaurantTablesReservationSystem\\RestaurantTablesReservationSystem\\obj\\",
+      "outputPath": "D:\\Papers, books, articles, courses, videos, etc\\GitHub_repos\\cs\\RestaurantTablesReservationSystem\\RestaurantTablesReservationSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dbeni\\AppData\\Roaming\\NuGet\\NuGet.Config",
