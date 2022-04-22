@@ -1,0 +1,15 @@
+D:\Papers, books, articles, courses, videos, etc\Development\.NET\Projects\RestaurantTablesReservationSystem\RestaurantTablesReservationSystem\bin\Debug\net6.0\RestaurantTablesReservationSystem.exe
+D:\Papers, books, articles, courses, videos, etc\Development\.NET\Projects\RestaurantTablesReservationSystem\RestaurantTablesReservationSystem\bin\Debug\net6.0\RestaurantTablesReservationSystem.deps.json
+D:\Papers, books, articles, courses, videos, etc\Development\.NET\Projects\RestaurantTablesReservationSystem\RestaurantTablesReservationSystem\bin\Debug\net6.0\RestaurantTablesReservationSystem.runtimeconfig.json
+D:\Papers, books, articles, courses, videos, etc\Development\.NET\Projects\RestaurantTablesReservationSystem\RestaurantTablesReservationSystem\bin\Debug\net6.0\RestaurantTablesReservationSystem.dll
+D:\Papers, books, articles, courses, videos, etc\Development\.NET\Projects\RestaurantTablesReservationSystem\RestaurantTablesReservationSystem\bin\Debug\net6.0\RestaurantTablesReservationSystem.pdb
+D:\Papers, books, articles, courses, videos, etc\Development\.NET\Projects\RestaurantTablesReservationSystem\RestaurantTablesReservationSystem\obj\Debug\net6.0\RestaurantTablesReservationSystem.csproj.AssemblyReference.cache
+D:\Papers, books, articles, courses, videos, etc\Development\.NET\Projects\RestaurantTablesReservationSystem\RestaurantTablesReservationSystem\obj\Debug\net6.0\RestaurantTablesReservationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Papers, books, articles, courses, videos, etc\Development\.NET\Projects\RestaurantTablesReservationSystem\RestaurantTablesReservationSystem\obj\Debug\net6.0\RestaurantTablesReservationSystem.AssemblyInfoInputs.cache
+D:\Papers, books, articles, courses, videos, etc\Development\.NET\Projects\RestaurantTablesReservationSystem\RestaurantTablesReservationSystem\obj\Debug\net6.0\RestaurantTablesReservationSystem.AssemblyInfo.cs
+D:\Papers, books, articles, courses, videos, etc\Development\.NET\Projects\RestaurantTablesReservationSystem\RestaurantTablesReservationSystem\obj\Debug\net6.0\RestaurantTablesReservationSystem.csproj.CoreCompileInputs.cache
+D:\Papers, books, articles, courses, videos, etc\Development\.NET\Projects\RestaurantTablesReservationSystem\RestaurantTablesReservationSystem\obj\Debug\net6.0\RestaurantTablesReservationSystem.dll
+D:\Papers, books, articles, courses, videos, etc\Development\.NET\Projects\RestaurantTablesReservationSystem\RestaurantTablesReservationSystem\obj\Debug\net6.0\refint\RestaurantTablesReservationSystem.dll
+D:\Papers, books, articles, courses, videos, etc\Development\.NET\Projects\RestaurantTablesReservationSystem\RestaurantTablesReservationSystem\obj\Debug\net6.0\RestaurantTablesReservationSystem.pdb
+D:\Papers, books, articles, courses, videos, etc\Development\.NET\Projects\RestaurantTablesReservationSystem\RestaurantTablesReservationSystem\obj\Debug\net6.0\RestaurantTablesReservationSystem.genruntimeconfig.cache
+D:\Papers, books, articles, courses, videos, etc\Development\.NET\Projects\RestaurantTablesReservationSystem\RestaurantTablesReservationSystem\obj\Debug\net6.0\ref\RestaurantTablesReservationSystem.dll
